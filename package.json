@@ -1,8 +1,8 @@
 {
   "name": "node-cbor",
-  "version": "5.0.3",
+  "version": "5.0.4",
   "description": "Encode and parse data in the Concise Binary Object Representation (CBOR) data format (RFC7049).",
-  "main": "./lib/cbor.js",
+  "main": "./lib/node-cbor.js",
   "repository": {
     "type": "git",
     "url": "http://github.com/hildjj/node-cbor.git"
