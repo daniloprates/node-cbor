@@ -1,6 +1,6 @@
 {
-  "name": "cbor",
-  "version": "5.0.2",
+  "name": "node-cbor",
+  "version": "5.0.3",
   "description": "Encode and parse data in the Concise Binary Object Representation (CBOR) data format (RFC7049).",
   "main": "./lib/cbor.js",
   "repository": {
@@ -34,6 +34,7 @@
   "keywords": [
     "coap",
     "cbor",
+    "node-cbor",
     "json"
   ],
   "author": {
